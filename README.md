@@ -3,7 +3,7 @@
 Este projeto é parte do trabalho integrado do primeiro semestre de Ciência de Dados da faculdade Anhanguera. Seu propósito constitui na criação de um sistema de gerênciamento de uma biblioteca que permita a catalogação, empréstimo e devolução de
 livros.
 
-## Funcionalidades
+## 🔧 Funcionalidades
 
 - Cadastro de Livros: Permitir o cadastro de livros no sistema, incluindo informações como
 título, autor, ano de publicação, e número de cópias disponíveis.
